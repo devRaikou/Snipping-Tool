@@ -1,0 +1,15 @@
+C:\Users\arda\source\repos\Snipping Tool\Snipping Tool\bin\Debug\Snipping Tool.exe.config
+C:\Users\arda\source\repos\Snipping Tool\Snipping Tool\bin\Debug\Snipping Tool.exe
+C:\Users\arda\source\repos\Snipping Tool\Snipping Tool\bin\Debug\Snipping Tool.pdb
+C:\Users\arda\source\repos\Snipping Tool\Snipping Tool\obj\Debug\Snipping Tool.csproj.AssemblyReference.cache
+C:\Users\arda\source\repos\Snipping Tool\Snipping Tool\obj\Debug\Snipping Tool.csproj.SuggestedBindingRedirects.cache
+C:\Users\arda\source\repos\Snipping Tool\Snipping Tool\obj\Debug\Snipping_Tool.Form1.resources
+C:\Users\arda\source\repos\Snipping Tool\Snipping Tool\obj\Debug\Snipping_Tool.Properties.Resources.resources
+C:\Users\arda\source\repos\Snipping Tool\Snipping Tool\obj\Debug\Snipping Tool.csproj.GenerateResource.cache
+C:\Users\arda\source\repos\Snipping Tool\Snipping Tool\obj\Debug\Snipping Tool.csproj.CoreCompileInputs.cache
+C:\Users\arda\source\repos\Snipping Tool\Snipping Tool\obj\Debug\Snipping Tool.exe
+C:\Users\arda\source\repos\Snipping Tool\Snipping Tool\obj\Debug\Snipping Tool.pdb
+C:\Users\arda\source\repos\Snipping Tool\Snipping Tool\bin\Debug\Snipping Tool.exe.manifest
+C:\Users\arda\source\repos\Snipping Tool\Snipping Tool\bin\Debug\Snipping Tool.application
+C:\Users\arda\source\repos\Snipping Tool\Snipping Tool\obj\Debug\Snipping Tool.exe.manifest
+C:\Users\arda\source\repos\Snipping Tool\Snipping Tool\obj\Debug\Snipping Tool.application
